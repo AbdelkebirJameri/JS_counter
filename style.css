@@ -1,0 +1,44 @@
+body {
+  height: 100%;
+  background-color: #fff0fa;
+}
+
+.title1 {
+    text-align: center;
+   
+}
+.btns .btn {
+    display: inline;
+    padding: 4px;
+    text-decoration: solid;
+    text-transform: uppercase;
+    background-color: #8cffd5;
+   
+}
+.container {
+  position: absolute;
+  place-content: center;
+  display: grid;
+  background-color: white;
+  top: 4cm;
+  right: 7cm;
+  left: 7cm;
+  bottom: 4cm;
+  
+  font-size: xx-large;
+}
+
+#demo {
+  
+  font-size: 2. 5rem;
+  text-decoration: solid;
+  text-align: center;
+  padding: 10px ;
+  
+}
+.btn:hover {
+    color: fuchsia;
+
+    
+   
+}
